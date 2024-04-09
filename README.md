@@ -1,6 +1,6 @@
 # Currículo de John Doe - Desenvolvedor Web
 
-Este repositório contém o currículo de John Doe, um Desenvolvedor Web, em formato HTML. O currículo foi desenvolvido utilizando HTML, CSS, Bootstrap e Font Awesome.
+Este repositório contém o currículo de John Doe, um Desenvolvedor Web, em formato HTML. O currículo foi desenvolvido utilizando HTML, CSS, e Bootstrap.
 
 ## Conteúdo
 
